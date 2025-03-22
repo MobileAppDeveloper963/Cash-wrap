@@ -1,16 +1,12 @@
-# cash_wrap
+# Cash_wrap
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b61a4711-7443-4c11-8a7c-5fc30e9d6b9a" width="24%">
+  <img src="https://github.com/user-attachments/assets/640ac7a1-6f07-4ee0-97e5-68618b3e0479" width="24%">
+  <img src="https://github.com/user-attachments/assets/cfda9563-a70b-408a-8e45-bd79c749ea3c" width="24%">
+  <img src="https://github.com/user-attachments/assets/5c821f99-22a5-4304-b51f-1d9574ffa9bc" width="24%">
+</p>
